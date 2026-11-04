@@ -1,0 +1,6 @@
+{
+  "name": "Student & Course Manager",
+  "description": "A simple, beginner-friendly web application to manage student and course records powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
